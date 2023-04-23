@@ -1,4 +1,8 @@
-/*  your css code here. If applicable */
+/*  your
+css code here. If applicable */
+.inline{
+	display:inline;
+}
 #a{
 	color:#2a7ae2;
 }
